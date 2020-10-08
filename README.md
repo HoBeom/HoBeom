@@ -1,5 +1,5 @@
-### 👋 반갑습니다! 가치있는 소프트웨어 개발과 연구를 꿈꾸는 전호범 입니다!
-문의사항은 블로그 [Visit Here!!!](https://www.notion.so/hobe/HoBeom-Jeon-e1c595888ae641d0805cae06979c2480) 또는 이메일 tiger@etri.re.kr으로 부탁드립니다 
+### 👋 반갑습니다! 가치있는 소프트웨어 개발과 연구를 꿈꾸는 [전호범](https://www.notion.so/hobe/HoBeom-Jeon-e1c595888ae641d0805cae06979c2480) 입니다!
+문의사항은 [블로그](https://hobeom.github.io/)  또는 이메일 [tiger@etri.re.kr](tiger@etri.re.kr) 으로 부탁드립니다 
 
 - <b>과학기술연합대학원대학교(UST) 한국전자통신연구원(ETRI)스쿨 인간로봇상호작용연구실 (2020.09 - Present)</b>
   - 고령 사회에 대응하기 위한 실환경 휴먼케어로봇 기술 개발
