@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoBeom&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 👋 반갑습니다! 가치있는 소프트웨어 개발과 연구를 꿈꾸는 [전호범](https://www.notion.so/hobe/HoBeom-Jeon-e1c595888ae641d0805cae06979c2480) 입니다!
 문의사항은 [블로그](https://hobeom.github.io/)  또는 이메일 [tiger@etri.re.kr](tiger@etri.re.kr) 으로 부탁드립니다 
 
@@ -13,6 +12,9 @@
 
 - <b>부경대학교 영상통신연구실 (2018.06 - 2019.12)</b>
   - 인터렉티브 미디어 창작플랫폼 및 머신러닝을 이용한 얼굴변형 및 학습모델 개발
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoBeom&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoBeom&show_icons=true&theme=radical)
 
 <!--
 **HoBeom/HoBeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
